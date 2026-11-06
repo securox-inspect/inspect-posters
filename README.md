@@ -2,76 +2,139 @@
 
 <div align="center">
 
-<a href="https://shop.inspect.wtf/produkt/inspect-posters"><img src="assets/showcase/banner.svg" alt="INSPECT Fivem Posters Skript – INSPECT" width="100%"></a>
+<a href="https://shop.inspect.wtf/produkt/inspect-posters"><img src="assets/showcase/banner.svg" alt="INSPECT Fivem Posters Skript – SecuroX Inspect" width="100%"></a>
 
 <p>
-  <a href="https://shop.inspect.wtf/produkt/inspect-posters"><img src="https://img.shields.io/badge/Preis-19%2C95%C2%A0%E2%82%AC-121417?style=for-the-badge" alt="Preis 19,95 €"></a>
-  <img src="https://img.shields.io/badge/Version-1.1.0-383c44?style=for-the-badge" alt="Version 1.1.0">
-  <img src="https://img.shields.io/badge/Kategorie-FiveM%20Scripts-383c44?style=for-the-badge" alt="Kategorie FiveM Scripts">
-  <img src="https://img.shields.io/badge/Sprache-Deutsch-383c44?style=for-the-badge" alt="Sprache Deutsch">
+  <a href="https://shop.inspect.wtf/produkt/inspect-posters"><img src="https://img.shields.io/badge/Preis-19%2C95%C2%A0%E2%82%AC-c1121f?style=for-the-badge&labelColor=121417" alt="Preis 19,95 €" height="28"></a>
+  <img src="https://img.shields.io/badge/Version-1.1.0-2b2f36?style=for-the-badge&labelColor=121417" alt="Version 1.1.0" height="28">
+  <img src="https://img.shields.io/badge/Sofort--Download-2b2f36?style=for-the-badge" alt="Sofort-Download" height="28">
+  <img src="https://img.shields.io/badge/ESX%20%C2%B7%20QBCore-2b2f36?style=for-the-badge" alt="ESX · QBCore" height="28">
+  <img src="https://img.shields.io/badge/Support-Deutsch-2b2f36?style=for-the-badge&labelColor=121417" alt="Support Deutsch" height="28">
 </p>
-
-<h3>Performantes FiveM-Postersystem mit freier Platzierung, persistenter Speicherung und spezieller Blackout-Unterstützung.</h3>
 
 <p>
-  <a href="https://shop.inspect.wtf/produkt/inspect-posters"><img src="https://img.shields.io/badge/Jetzt%20im%20Shop%20kaufen-c1121f?style=for-the-badge" alt="Jetzt kaufen"></a>
-  <a href="https://discord.gg/inspect"><img src="https://img.shields.io/badge/Discord%20%26%20Support-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://www.tiktok.com/@securox_inspect"><img src="https://img.shields.io/badge/Clips%20auf%20TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
-  <a href="https://inspect.wtf"><img src="https://img.shields.io/badge/inspect.wtf-121417?style=for-the-badge" alt="Website"></a>
+  <a href="https://shop.inspect.wtf/produkt/inspect-posters"><img src="https://img.shields.io/badge/Jetzt%20kaufen%20%C2%B7%2019%2C95%C2%A0%E2%82%AC-c1121f?style=for-the-badge" alt="Jetzt kaufen · 19,95 €" height="36"></a>
+  <a href="https://discord.gg/inspect"><img src="https://img.shields.io/badge/Fragen%3F%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="36"></a>
+  <a href="https://www.tiktok.com/@securox_inspect"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" height="36"></a>
 </p>
+
+<br>
+
+<a href="https://shop.inspect.wtf/produkt/inspect-posters"><img src="assets/showcase/bild-1.png" alt="INSPECT Fivem Posters Skript" width="100%"></a>
 
 </div>
 
----
+<br>
+
+## Das Wichtigste auf einen Blick
+
+<table>
+  <tr>
+    <td width="50%" valign="top">✔&nbsp; <b>Freie Poster-Platzierung in der Spielwelt</b></td>
+    <td width="50%" valign="top">✔&nbsp; <b>Eigene Bild-URLs und individuelle Motive</b></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">✔&nbsp; <b>Größe und Position frei anpassbar</b></td>
+    <td width="50%" valign="top">✔&nbsp; <b>Persistente Speicherung per JSON</b></td>
+  </tr>
+</table>
 
 ## Überblick
 
 INSPECT Posters ist ein modernes In-World-Postersystem für FiveM. Spieler und Administratoren können individuelle Bilder, Hinweise, Werbung, Fraktionsinformationen oder Roleplay-Inhalte direkt in der Spielwelt platzieren. Das System arbeitet mit optimiertem Lazy-DUI-Rendering, persistenter JSON-Speicherung und ist speziell für Server mit aktivem oder dynamischem Blackout geeignet.
 
-## Funktionen
+## Kompatibilität
 
-- ✅ Freie Poster-Platzierung in der Spielwelt
-- ✅ Eigene Bild-URLs und individuelle Motive
-- ✅ Größe und Position frei anpassbar
-- ✅ Persistente Speicherung per JSON
-- ✅ Lazy-DUI-Rendering für geringe Clientlast
-- ✅ Konfigurierbare Render- und Streaming-Distanzen
-- ✅ Blackout-kompatible Darstellung
-- ✅ Optionales Poster-Licht
-- ✅ Discord-Whitelist optional
-- ✅ Discord-Webhooks optional
-- ✅ Admin-Entfernen-Modus
-- ✅ ESX-/QB-Core-Unterstützung
-- ✅ ox_inventory-Unterstützung
-- ✅ ox_lib-Unterstützung
-- ✅ INSPECT Events und Exports
-- ✅ Legacy-Kompatibilität für bestehende posters:* Integrationen
+| | |
+|:--|:--|
+| Frameworks | **ESX** · **QBCore** |
+| Unterstützte Ressourcen | `ox_inventory` |
+| Plattform | FiveM (GTA V) |
 
-## Einblicke
+## Alle weiteren Funktionen
+
+- Lazy-DUI-Rendering für geringe Clientlast
+- Konfigurierbare Render- und Streaming-Distanzen
+- Blackout-kompatible Darstellung
+- Optionales Poster-Licht
+- Discord-Whitelist optional
+- Discord-Webhooks optional
+- Admin-Entfernen-Modus
+- ESX-/QB-Core-Unterstützung
+- ox_inventory-Unterstützung
+- ox_lib-Unterstützung
+
+<details>
+<summary><b>2 weitere Funktionen anzeigen</b></summary>
+
+- INSPECT Events und Exports
+- Legacy-Kompatibilität für bestehende posters:* Integrationen
+
+</details>
+
+## Preis
+
+**19,95 €** &nbsp;–&nbsp; einmaliger Kaufpreis · Download und Lizenz im Kundenkonto
+
+<div align="center">
+
+<a href="https://shop.inspect.wtf/produkt/inspect-posters"><img src="https://img.shields.io/badge/Jetzt%20im%20Shop%20kaufen-c1121f?style=for-the-badge" alt="Jetzt im Shop kaufen" height="36"></a>
+
+<sub>Sichere Zahlung mit PayPal oder Kreditkarte · Rechnung als PDF · Support auf Deutsch</sub>
+
+</div>
+
+## So einfach geht's
+
+1. **Im Shop kaufen** – sicher bezahlen mit PayPal oder Kreditkarte.
+2. **Sofort loslegen** – Download und Lizenz stehen direkt nach Zahlungseingang in deinem Kundenkonto bereit, die Rechnung erhältst du als PDF.
+3. **Einrichten** – bei Fragen hilft dir unser Support im Discord weiter.
+
+## Warum INSPECT?
 
 <table>
   <tr>
-    <td width="50%"><img src="assets/showcase/bild-1.png" alt="INSPECT Fivem Posters Skript" width="100%"></td>
+    <td width="50%" valign="top"><b>🇩🇪 Entwickelt in Deutschland</b><br><sub>Konzeption, Entwicklung und Support aus einer Hand.</sub></td>
+    <td width="50%" valign="top"><b>💬 Persönlicher Support</b><br><sub>Schnelle Hilfe auf Deutsch im INSPECT Discord.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><b>🔒 Sichere Zahlung</b><br><sub>PayPal oder Kreditkarte, Rechnung automatisch als PDF.</sub></td>
+    <td width="50%" valign="top"><b>⚡ Sofort verfügbar</b><br><sub>Download und Lizenz direkt nach der Zahlung im Kundenkonto.</sub></td>
   </tr>
 </table>
 
-## Video
+## Häufige Fragen
 
-Neue Clips, Updates und Vorschauen gibt es regelmäßig auf TikTok: **[@securox_inspect](https://www.tiktok.com/@securox_inspect)**
+<details>
+<summary><b>Wie erhalte ich das Produkt?</b></summary>
+<br>
 
-## Preise
+Nach bestätigter Zahlung stehen Download und Lizenz in deinem Kundenkonto bereit. Die Rechnung erhältst du als PDF.
 
-| Produkt | Preis |
-|:--|--:|
-| INSPECT Fivem Posters Skript | **19,95 €** |
+</details>
+<details>
+<summary><b>Welche Frameworks werden unterstützt?</b></summary>
+<br>
 
-<a href="https://shop.inspect.wtf/produkt/inspect-posters"><b>➜ Zum Produkt im Shop</b></a>
+ESX, QBCore – zusätzlich mit Unterstützung für ox_inventory.
 
-## Kauf, Einrichtung & Support
+</details>
+<details>
+<summary><b>Bekomme ich Hilfe bei der Einrichtung?</b></summary>
+<br>
 
-1. **Kaufen** im offiziellen Shop: [shop.inspect.wtf](https://shop.inspect.wtf) – PayPal und Karte, Rechnung automatisch per E-Mail.
-2. **Freischaltung & Download** findest du sofort nach der Zahlung in deinem Kundenkonto.
-3. **Hilfe** bekommst du im [INSPECT Discord](https://discord.gg/inspect) – schnell, persönlich und auf Deutsch.
+Ja – unser Support hilft dir im [INSPECT Discord](https://discord.gg/inspect) persönlich und auf Deutsch.
+
+</details>
+<details>
+<summary><b>Wo kaufe ich offiziell?</b></summary>
+<br>
+
+Ausschließlich im INSPECT Shop unter [shop.inspect.wtf](https://shop.inspect.wtf). Angebote von Dritten stammen nicht von uns.
+
+</details>
+
+## Kontakt
 
 | | |
 |:--|:--|
@@ -84,6 +147,6 @@ Neue Clips, Updates und Vorschauen gibt es regelmäßig auf TikTok: **[@securox_
 ---
 
 <div align="center">
-<sub><b>INSPECT</b> · Offizielle Produktpräsentation. Dieses Repository enthält keinen Quellcode und keine Produktdateien.<br>
+<sub><b>SecuroX Inspect</b> · Offizielle Produktpräsentation · Dieses Repository enthält keinen Quellcode und keine Produktdateien.<br>
 Kauf und Lizenzen ausschließlich über <a href="https://shop.inspect.wtf">shop.inspect.wtf</a> · Inhalte werden automatisch aus dem Shop aktualisiert.</sub>
 </div>
